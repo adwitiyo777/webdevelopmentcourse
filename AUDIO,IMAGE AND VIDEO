@@ -5,22 +5,20 @@
 <body>
 
   <h1>Media</h1>
-
-  <!-- Image -->
   <h2>Image</h2>
-  <img src="-closeup_of_bold_hd_lion-1920x1080.jpg" alt="lion Image" width="400" height= "400">
+  <img src=C:\Users\ARADHANA\Downloads\closeup_of_bold_lion_hd_lion-1920x1080.jpg" alt="lion Image" width="400" height= "400">
 
   
   <h2>Audio</h2>
   <audio controls>
-    <source src="sample-9s.mp3" type="audio/mp3">
+    <source src="C:\Users\ARADHANA\Downloads\sample-9s.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 
   
   <h2>Video</h2>
   <video width="400" controls>
-    <source src="SampleVideo_1280x720_1mb.mp4" type="video/mp4">
+    <source src=""C:\Users\ARADHANA\Downloads\SampleVideo_1280x720_1mb.mp4">
     Your browser does not support the video tag.
   </video>
 
