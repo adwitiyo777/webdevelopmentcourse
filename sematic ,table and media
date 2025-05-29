@@ -18,7 +18,7 @@
       <h2>About Cricket</h2>
       <article>
         <p>Cricket is a bat-and-ball game played between two teams of 11 players. It is popular in countries like India, England, Australia, and Pakistan.</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cricket_pitch.svg" alt="Cricket Ground">
+        <img src="C:\Users\ARADHANA\OneDrive\Desktop\web development courseder\sematic\stadium.jpg" alt="Cricket Ground">
       </article>
     </section>
 
@@ -68,7 +68,7 @@
         </audio>
 
         <h3>Match Highlights</>
-          <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+          <source src="https://www.bing.com/videos/riverview/relatedvideo?q=cricket+match+highlights+youtube&qpvt=cricket+match+highlights+youtube&mid=8A5B9E4CDADA0C3A054A8A5B9E4CDADA0C3A054A&FORM=VCGVRP">
           Your browser does not support the video tag.
         </video>
       </article>
