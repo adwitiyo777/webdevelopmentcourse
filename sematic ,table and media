@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html
+</head>
+  <header>
+    <h1>Welcome to Cricket World</h1>
+    <p>Your source for all things cricket</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Players</a>
+    <a href="#">Matches</a>
+    <a href="#">Highlights</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>About Cricket</h2>
+      <article>
+        <p>Cricket is a bat-and-ball game played between two teams of 11 players. It is popular in countries like India, England, Australia, and Pakistan.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cricket_pitch.svg" alt="Cricket Ground">
+      </article>
+    </section>
+
+    <section>
+      <h2>Top Players Stats</h2>
+      <table>
+          <tr>
+            <th>Player</th>
+            <th>Country</th>
+            <th>Matches</th>
+            <th>Runs</th>
+            <th>Wickets</th>
+          </tr>
+        <tbody>
+          <tr>
+            <td>Virat Kohli</td>
+            <td>India</td>
+            <td>275</td>
+            <td>12850</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Joe Root</td>
+            <td>England</td>
+            <td>158</td>
+            <td>11200</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>Pat Cummins</td>
+            <td>Australia</td>
+            <td>90</td>
+            <td>800</td>
+            <td>350</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Cricket Media</h2>
+      <article>
+        <h3>Audio Commentary </h3>
+        <audio controls>
+          <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mp3">
+          Your browser does not support the audio element.
+        </audio>
+
+        <h3>Match Highlights</>
+          <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cricket World | Designed with Passion for the Game</p>
+  </footer>
+
+</body>
+</html>
