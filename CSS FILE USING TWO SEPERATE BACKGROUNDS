@@ -1,1 +1,26 @@
+<DOCTYPE html>
+<html>
 
+    <head>
+        <style>
+          html  {
+            font-size:25px;
+            background colour: red;
+            colour: white;
+            font-family: arial;
+          }
+
+        #text  {
+           background-colour: teal;
+           colour: black;
+           font-size: 25px; 
+           text-align: justify;
+        } 
+        </style>
+     </head>
+
+     <body>
+          <p> CSS stands for cascading style sheet </p>
+          <div id="text"> HTML stands for hypertext markup language
+         
+      
