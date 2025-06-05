@@ -74,4 +74,9 @@ Average: <output name="x" for="m1 m2 m3"></output>
 
 </body>
 
+<label form"birthday">birthday><br><br>
+<input type="date"id="birthday name="birthday"><br><br>
+
+<textarea rows="5" cols"50" name="description">
+Enter description here...</textarea><br><br>
 </html>
