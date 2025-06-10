@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <style>
+         #grad1 {
+            height: 400px;
+            background-color: red
+            background-image linear-gradient(top right,red,blue,green);
+         }
+     </style>
+</head>
+    <body>
+        <div id="grad1">
+            ADWITIYO THIRTEEN
+        </div>
+    </body>
+</html>
