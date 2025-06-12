@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Football World</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1a237e;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      text-transform: uppercase;      /* makes all letters uppercase */
+      letter-spacing: 2px;            /* space between letters */
+      word-spacing: 5px;              /* space between words */
+    }
+
+    h1 {
+      font-size: 36px;
+      font-weight: bold;
+      text-decoration: underline;     /* underline text */
+    }
+
+    .section {
+      padding: 30px;
+    }
+
+    h2 {
+      color: #0d47a1;
+      font-size: 28px;
+      font-style: italic;             /* italic heading */
+      text-align: left;
+      text-transform: capitalize;
+      letter-spacing: 1px;
+    }
+
+    p {
+      font-size: 18px;
+      color: #333;
+      text-align: justify;            /* evenly distributes text */
+      line-height: 1.6;               /* space between lines */
+      text-indent: 40px;              /* indent first line */
+    }
+
+    footer {
+      background-color: #1a237e;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>welcome to football world</h1>
+  </header>
+
+  <div class="section">
+    <h2>What is Football?</h2>
+    <p>Football is a team sport played between two teams of eleven players. It is one of the most popular and widely viewed sports in the world. The game is played with a spherical ball on a rectangular field with goals at each end.</p>
+  </div>
+
+  <div class="section">
+    <h2>Why Do People Love Football?</h2>
+    <p>Football is loved for its excitement, skill, teamwork, and unpredictability. The passion of the fans, the energy of the matches, and the glory of winning trophies make it a sport like no other. Whether it’s a local match or a World Cup final, football unites people across the globe.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Football World. All rights reserved.
+  </footer>
+
+</body>
+</html>
