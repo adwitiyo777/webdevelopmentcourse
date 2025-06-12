@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Football World</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #e0f7fa;
+    }
+
+    header {
+      background-color: #004d40;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-shadow: 2px 2px 4px #000; /* text shadow */
+    }
+
+    .container {
+      padding: 30px;
+    }
+
+    h2 {
+      color: #00796b;
+      text-shadow: 1px 1px 2px #aaa;
+    }
+
+    .card {
+      background-color: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* box shadow */
+    }
+
+    p {
+      text-indent: 40px; /* first line indent */
+      line-height: 1.6;
+    }
+
+    footer {
+      background-color: #004d40;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      text-shadow: 1px 1px 2px black;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to the Football World</h1>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>About Football</h2>
+      <p>Football, also known as soccer in some countries, is the most popular sport worldwide. It brings together players and fans from all walks of life. The excitement of the game, the roar of the crowd, and the beauty of team spirit make it truly special.</p>
+    </div>
+
+    <div class="card">
+      <h2>Famous Clubs</h2>
+      <p>Clubs like Real Madrid, FC Barcelona, Manchester United, and Bayern Munich have made history with their achievements and loyal fan bases. These teams have inspired millions with their skills, passion, and iconic moments.</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Football World. All Rights Reserved.
+  </footer>
+
+</body>
+</html>
