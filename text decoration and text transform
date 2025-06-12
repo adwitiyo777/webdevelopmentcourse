@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Fever</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f3f3;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #006400;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      text-transform: uppercase; /* transform text to uppercase */
+    }
+
+    nav a {
+      margin: 0 15px;
+      color: #fff;
+      text-decoration: none; /* remove underline */
+      text-transform: capitalize;
+    }
+
+    nav a:hover {
+      text-decoration: underline; /* underline on hover */
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    h2 {
+      text-decoration: underline; /* underline heading */
+      text-transform: capitalize; /* capitalize each word */
+    }
+
+    p {
+      line-height: 1.6;
+      text-transform: none;
+    }
+
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>football fever</h1>
+    <nav>
+      <a href="#">home</a>
+      <a href="#">teams</a>
+      <a href="#">schedule</a>
+      <a href="#">contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>about football</h2>
+    <p>Football is a global sport loved by millions. It is played between two teams of eleven players, with the objective of scoring goals by getting the ball into the opposing team’s net.</p>
+  </section>
+
+  <section>
+    <h2>famous teams</h2>
+    <p>Some of the most famous football clubs include FC Barcelona, Real Madrid, Manchester United, and Bayern Munich.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Football Fever. All rights reserved.
+  </footer>
+
+</body>
+</html>
