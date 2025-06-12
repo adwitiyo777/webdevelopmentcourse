@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<title>Typography<!title>
+<style>
+
+.text1{
+colour:red:
+
+font-size:30px
+]
+
+.p1{
+ colour:blueviolet:
+font-family:"Courter New", Courter,nanospace;
+]
+
+</style>
+<html>
+
+<h1>Typography</h1>
+
+<p class"text1>welcome to codingal</p>
+
+<p class"p1">welcome to codingal</p>
