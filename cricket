@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+Chat
+
+
+Profile Image
+body {
+
+font-family: 'Arial', sans-serif;
+
+background-color: #0D1117;
+
+color: #C9D1D9;
+
+}
+
+h1 {
+
+color: #58A6FF;
+
+}
+
+/* Attribute Selector */
+
+a {
+
+color: #8B949E;
+
+text-decoration: none;
+
+}
+
+a:hover {
+
+color: #1F6FEB;
+
+}
+
+/* Child Selector */
+
+ul>li {
+
+font-weight: bold;
+
+}
+
+/* Sibling Selector */
+
+h1+p {
+
+background-color:grey;
+
+padding: 10px;
+
+border-radius: 5px;
+
+font-style: italic;
+
+}
+
+/* :hover Pseudo-class */
+
+ul li:hover {
+
+color: #4F8CC9;
+
+}
+
+/* :nth-child(n) Pseudo-class */
+
+ul li:nth-child(3) {
+
+background-color: yellow;
+
+}
+
+/* :not(selector) Pseudo-class */
+
+p:not(:first-of-type) {
+
+text-decoration: underline;
+
+}
+
+/* ::before Pseudo-element */
+
+ul li::before {
+
+content: "🚀 ";
+
+}
+
+/* ::after Pseudo-element */
+
+a::after {
+
+content: " 🌌";
+
+}
+
+/* ::first-letter Pseudo-element */
+
+p::first-letter {
+
+font-size: 200%;
+
+color: #FF7B72;
+
+}
+
+Prateeksha Singh.Jun 24, 07:59 PM
+https://replit.com/@sonikakhemka198/M3L1Transforms?replId=11899edc-6e05-4e55-92c8-80cb23a80168#index.html
+
+adwitiyo prakash.Jun 12, 07:45 PM
+Profile Image
+Profile Image
+ok mam
+
+Vidit gupta.Jun 12, 07:37 PM
+Profile Image
+can you explain again
+
+Vidit gupta.Jun 12, 07:35 PM
+Profile Image
+/my mic usally works
+
+Poojith Yalamanchi.Jun 12, 07:10 PM
+Profile Image
+no maam
+
+Poojith Yalamanchi.Jun 12, 07:09 PM
+Profile Image
+mam i dont have camera
+
+Poojith Yalamanchi.Jun 12, 07:09 PM
+Profile Image
+maam my mic is not detedted
+
+Poojith Yalamanchi.Jun 12, 07:09 PM
+yes sir
+
+adwitiyo prakash.Jun 10, 07:55 PM
+Profile Image
+sir done
+
+adwitiyo prakash.Jun 10, 07:54 PM
+Profile Image
+sir done
+
+adwitiyo prakash.Jun 10, 07:54 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+/* The animation code */
+
+@keyframes example {
+
+0% {
+
+background-color: red;
+
+}
+
+25% {
+
+background-color: yellow;
+
+}
+
+50% {
+
+background-color: blue;
+
+}
+
+100% {
+
+background-color: green;
+
+}
+
+}
+
+/* The element to apply the animation to */
+
+div {
+
+width: 100px;
+
+height: 100px;
+
+background-color: red;
+
+animation-name: example;
+
+animation-duration: 4s;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+​<div>
+
+Hi</div>
+
+</body>
+
+</html>
+
+​
+
+adwitiyo prakash.Jun 10, 07:53 PM
+Profile Image
+no sir
+
+adwitiyo prakash.Jun 10, 07:53 PM
+Profile Image
+part
+
+adwitiyo prakash.Jun 10, 07:51 PM
+Profile Image
+colour park
+
+adwitiyo prakash.Jun 10, 07:51 PM
+Profile Image
+sir the colur part
+
+adwitiyo prakash.Jun 10, 07:51 PM
+Profile Image
+yes sir clear
+
+adwitiyo prakash.Jun 10, 07:36 PM
+Profile Image
+sir i share my screen
+
+adwitiyo prakash.Jun 10, 07:22 PM
+Profile Image
+sir we write it in github
+
+adwitiyo prakash.Jun 10, 07:21 PM
+Profile Image
+yes sir
+
+adwitiyo prakash.Jun 10, 07:20 PM
+Profile Image
+yes sir clear
+
+adwitiyo prakash.Jun 10, 07:17 PM
+Profile Image
+external
+
+adwitiyo prakash.Jun 10, 07:15 PM
+Profile Image
+sir i think his mike is disabled too
+
+adwitiyo prakash.Jun 10, 07:08 PM
+Profile Image
+sir can you tell me your whatsapp no so i can text yio
+
+adwitiyo prakash.Jun 10, 07:07 PM
+Profile Image
+sir i text on whatsapp
+
+adwitiyo prakash.Jun 10, 07:06 PM
+Profile Image
+sir i join again after checking the permissions for microphone
+
+adwitiyo prakash.Jun 10, 07:04 PM
+Profile Image
+sir can you check for once
+
+adwitiyo prakash.Jun 10, 07:03 PM
+Profile Image
+is disabled
+
+adwitiyo prakash.Jun 10, 07:03 PM
+Profile Image
+sir the option was disabled
+
+adwitiyo prakash.Jun 10, 07:03 PM
+Profile Image
+i can't turn the mike from here
+
+adwitiyo prakash.Jun 10, 07:02 PM
+Profile Image
+sir the mike is disabled
+
+adwitiyo prakash.Jun 10, 07:02 PM
+Profile Image
+Profile Image
+i need help in activity
+
+Abhinav Goyal.Jun 5, 08:00 PM
+Profile Image
+sir
+
+Abhinav Goyal.Jun 5, 08:00 PM
+Profile Image
+i could not attend
+
+Abhinav Goyal.Jun 5, 07:59 PM
+Profile Image
+todays activity pls help me
+
+Abhinav Goyal.Jun 5, 07:59 PM
+/* global css */
+
+*{
+
+font-size: 30px;
+
+font-weight: 500;
+
+}
+
+/* External CSS */
+
+h3{
+
+color: blue;
+
+}
+
+/* element selector */
+
+h4{
+
+color: palevioletred;
+
+}
+
+/* class selector */
+
+.myclass{
+
+color: darkorange;
+
+}
+
+/* id selector */
+
+#myid{
+
+color: mediumpurple;
+
+}
+
+/* group selector */
+
+h5,p{
+
+color: maroon;
+
+}
+
+adwitiyo prakash.Jun 5, 07:53 PM
+Profile Image
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CSS Styling Examples</title>
+
+<!-- Internal CSS -->
+
+<style>
+
+h2{
+
+color: green;
+
+}
+
+</style>
+
+<!-- External CSS -->
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<hr>
+
+<!-- Inline CSS -->
+
+<h1 style="color: red;">INLINE CSS EXAMPLE</h1>
+
+<!-- Internal CSS-->
+
+<h2 >INTERNAL CSS EXAMPLE</h1>
+
+<!-- External CSS -->
+
+<h3 >EXTERNAL CSS EXAMPLE </h1>
+
+<hr>
+
+<!-- element selector example -->
+
+<h4>ELEMENT SELECTOR EXAMPLE</h4>
+
+<h4>ELEMENT SELECTOR EXAMPLE</h4>
+
+<hr>
+
+<!-- class and id selector example -->
+
+<h2 class="myclass">CLASS SELECTOR EXAMPLE </h2>
+
+<h2 id="myid">ID SELECTOR EXAMPLE </h2>
+
+<h2 class="myclass">CLASS SELECTOR EXAMPLE </h2>
+
+<hr>
+
+
+<!-- group selector example -->
+
+<h5>GROUP SELECTOR EXAMPLE</h5>
+
+<p>GROUP SELECTOR EXAMPLE</p>
+
+<hr>
+
+</body>
+
+</html>
+
+adwitiyo prakash.Jun 5, 07:52 PM
+Profile Image
+Profile Image
+ok sir
+
+Abhinav Goyal.Jun 5, 07:50 PM
+Profile Image
+DO we have to create Style sheet Also
+
+Abhinav Goyal.Jun 5, 07:50 PM
+Profile Image
+no sir
+
+Abhinav Goyal.Jun 5, 07:50 PM
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<fieldset>
+
+<legend><b>Enter your Marks</b></legend>
+
+<form action="/action_page.php"
+
+oninput = "x.value=(parseInt(m1.value)+parseInt(m2.value)+parseInt(m3.value))/3">
+
+<label>Name</label><br>
+
+<input type="text" id="name"><br><br>
+
+<label>Enter Marks</label><br>
+
+<select name="Subject" id="subject">
+
+<option value="Maths">Maths</option>
+
+<option value="English">English</option>
+
+<option value="Science">Science</option>
+
+</select>
+
+<input type="number" id="m1" name="m1"><br><br>
+
+<select name="Subject2" id="subject2">
+
+<option value="Maths">Maths</option>
+
+<option value="English">English</option>
+
+<option value="Science">Science</option>
+
+</select>
+
+<input type="number" id="m2" name="m2"><br><br>
+
+<select name="Subject3" id="subject3">
+
+<option value="Maths">Maths</option>
+
+<option value="English">English</option>
+
+<option value="Science">Science</option>
+
+</select>
+
+<input type="number" id="m3" name="m3"><br><br>
+
+Average: <output name="x" for="m1 m2 m3"></output>
+
+</form>
+
+</fieldset>
+
+</body>
+
+</html>
+
+adwitiyo prakash.Jun 3, 07:56 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<form>
+
+<fieldset>
+
+<!-- The fieldset tag is used to group related elements in a form and draws a box around them-->
+
+<legend>Personal Information:</legend>
+
+<label>Full name:</label>
+
+<!--placeholder attribute can be used to provide extra information about entry to be made-->
+
+<input type="text" id="fname" placeholder="Enter Name"><br><br>
+
+<label>Email:</label>
+
+<input type="text" id="email"><br><br>
+
+<label>Gender:</label><br>
+
+<input type="radio" id="gender" value="female">Female<br>
+
+<input type="radio" id="gender" value="male">Male<br><br>
+
+<label>Birthday:</label>
+
+<input type="date" id="birthday" name="birthday"><br><br>
+
+</fieldset>
+
+</form>
+
+</body>
+
+</html>
+
+adwitiyo prakash.Jun 3, 07:53 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h1>Personal Details Form</h1>
+
+<form>
+
+<label>Name</label><br>
+
+<input type="text" id="name"><br><br>
+
+<label>Email ID</label><br>
+
+<input type="text" id="email"><br><br>
+
+<label>Contact Number (This will be hidden)</label><br>
+
+<input type="password" id="contact"><br><br>
+
+<label>Gender</label><br>
+
+<input type="radio" id="female" name="gender" value="Female">Female<br>
+
+<input type="radio" id="male" name="gender" value="Male">Male<br><br>
+
+<label>Favourite City</label><br>
+
+<input type="checkbox" id="city" value="New Delhi">New Delhi<br>
+
+<input type="checkbox" id="city" value="Mumbai">Mumbai<br><br>
+
+<input type="submit">
+
+</form>
+
+</body>
+
+</html>
+
+adwitiyo prakash.Jun 3, 07:52 PM
+Profile Image
+Profile Image
+calculator
+
+Abhinav Goyal.Jun 3, 07:34 PM
+Profile Image
+ok sir
+
+Abhinav Goyal.Jun 3, 07:33 PM
+Profile Image
+yes sir
+
+Abhinav Goyal.Jun 3, 07:33 PM
+Profile Image
+sir your screen is not sharing
+
+Abhinav Goyal.Jun 3, 07:32 PM
+Profile Image
+yes sir
+
+Abhinav Goyal.Jun 3, 07:32 PM
+Profile Image
+input
+
+Abhinav Goyal.Jun 3, 07:32 PM
+Profile Image
+will*
+
+Abhinav Goyal.Jun 3, 07:32 PM
+Profile Image
+sir if the name exceeds the limit of border then what wull happen
+
+Abhinav Goyal.Jun 3, 07:32 PM
+Profile Image
+yes sir
+
+Poojith Yalamanchi.Jun 3, 07:05 PM
+Profile Image
+sir can u please give homework
+
+Abhinav Goyal.May 29, 07:50 PM
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Navigational Links</h1>
+
+<nav>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#posts">Posts</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<main>
+
+<section>
+
+<article>
+
+<h2>Facts About Dogs</h2>
+
+<p>
+
+Dogs have a sense of time but don’t understand the ‘concept’ of time. Unlike humans, dogs don’t have
+
+the ability to create actual measures of time, like the second, hour, and minute, and they don’t
+
+know how to read clocks. So, telling them ”I’ll be back in 15 minutes” won’t really do much, but we
+
+understand that you feel like you have to do it anyway! Dogs are capable of being trained based on
+
+past events, and can be taught to anticipate future events based on past experiences. Pavlov’s dogs
+
+are the perfect example of this.
+
+</p>
+
+</article>
+
+<aside>
+
+<p>
+
+The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from
+
+extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the
+
+first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of
+
+agriculture.
+
+</p>
+
+</aside>
+
+</section>
+
+<figure>
+
+<img src="dog_image.jpeg" />
+
+<figcaption>A cute dog.</figcaption>
+
+</figure>
+
+<audio controls>
+
+<source src="dog-barking-70772.mp3" type="audio/mp3">
+
+</audio>
+
+<video src="production_id_4106998 (2160p).mp4" controls></video>
+
+<embed src="beautiful-day-cute-dog.gif" />
+
+</main>
+
+<footer>
+
+<p>Contact me at +91 6361 158952</p>
+
+</footer>
+
+</body>
+
+</html>
+
+adwitiyo prakash.May 29, 07:40 PM
+Profile Image
+Profile Image
+https://github.com/Abhinav123459/Web-development-course/blob/main/My%20project%203
+
+Abhinav Goyal.May 29, 07:09 PM
+Profile Image
+sir
+
+Abhinav Goyal.May 29, 07:05 PM
+Profile Image
+<html>
+
+<body>
+
+<title>Sports List</title>
+
+<table border="5">
+
+<tr>
+
+<th>Games</th>
+
+<th>Items used to play</th>
+
+<th>Players</th>
+
+</tr>
+
+<tr>
+
+<th>Cricket</th>
+
+<th>Bat,Ball</th>
+
+<th>11</th>
+
+</tr>
+
+<tr>
+
+<th>Football</th>
+
+<th>Ball</th>
+
+<th>11</th>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>Cricket-Everything about cricket that you should know </li>
+
+</ol>
+
+<ul>
+
+<li>Description-</li>
+
+</ul>
+
+<dl>Cricket is played with a bat and ball and involves two competing sides (teams) of 11 players. The field is oval
+
+with a
+
+rectangular area in the middle, known as the pitch, that is 22 yards (20.12 metres) by 10 feet (3.04 metres)
+
+wide. Two
+
+sets of three sticks, called wickets, are set in the ground at each end of the pitch. Across the top of each
+
+wicket lie
+
+horizontal pieces called bails. The sides take turns at batting and bowling (pitching); each turn is called an
+
+“innings”
+
+(always plural). Sides have one or two innings each, depending on the prearranged duration of the match, the
+
+object
+
+being to score the most runs. The bowlers, delivering the ball with a straight arm, try to break (hit) the
+
+wicket with
+
+the ball so that the bails fall. This is one of several ways that the batsman is dismissed, or put out. A bowler
+
+delivers six balls at one wicket (thus completing an “over”), then a different player from his side bowls six
+
+balls to
+
+the opposite wicket. The batting side defends its wicket.
+
+There are two batsman up at a time, and the batsman being bowled to (the striker) tries to hit the ball away
+
+from the
+
+wicket. A hit may be defensive or offensive. A defensive hit may protect the wicket but leave the batsmen no
+
+time to run
+
+to the opposite wicket. In that case the batsmen need not run, and play will resume with another bowl. If the
+
+batsman
+
+can make an offensive hit, he and the second batsman (the nonstriker) at the other wicket change places. Each
+
+time both
+
+batsmen can reach the opposite wicket, one run is scored. Providing they have enough time without being caught
+
+out and
+
+dismissed, the batsmen may continue to cross back and forth between the wickets, earning an additional run for
+
+each time
+
+both reach the opposite side. There is an outside boundary around the cricket field. A ball hit to or beyond the
+
+boundary scores four points if it hits the ground and then reaches the boundary, six points if it reaches the
+
+boundary
+
+from the air (a fly ball). The team with the highest number of runs wins a match. Should both teams be unable to
+
+complete their number of innings before the time allotted, the match is declared a draw. Scores in the hundreds
+
+are
+
+common in cricket.
+
+</dl>
+
+<ul>
+
+<li>History-</li>
+
+</ul>
+
+<dl>Cricket is believed to have begun possibly as early as the 13th century as a game in which country boys bowled
+
+at a tree
+
+stump or at the hurdle gate into a sheep pen. This gate consisted of two uprights and a crossbar resting on the
+
+slotted
+
+tops; the crossbar was called a bail and the entire gate a wicket. The fact that the bail could be dislodged
+
+when the
+
+wicket was struck made this preferable to the stump, which name was later applied to the hurdle uprights. Early
+
+manuscripts differ about the size of the wicket, which acquired a third stump in the 1770s, but by 1706 the
+
+pitch—the
+
+area between the wickets—was 22 yards long.</dl>
+
+</body>
+
+</html>
+
+Abhinav Goyal.May 27, 07:46 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h2>Ordered List</h2>
+
+<ol>
+
+<li>Home</li>
+
+<li>About Us</li>
+
+<li>Contact Us</li>
+
+</ol>
+
+<h2>Unordered List</h2>
+
+<ul>
+
+<li>Home</li>
+
+<li>About Us</li>
+
+<li>Contact Us</li>
+
+</ul>
+
+<h2>Defination List</h2>
+
+<dl>
+
+<dt>Home</dt>
+
+<dd> Home is a residential place </dd>
+
+<dt>About Us</dt>
+
+<dt>Contact Us</dt>
+
+</dl>
+
+</body>
+
+</html>
+
+Abhinav Goyal.May 27, 07:46 PM
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h2> This is one of my favourite song</h2>
+
+<audio controls autoplay>
+
+<source src="name.mp3" type="audio/mpeg">
+
+Your browser does not support the audio tag.
+
+</audio>
+
+<p>This is one of my favourite videos</p>
+
+<video width="400" height="300" controls autoplay poster="image.jpg" loop>
+
+<source src="Demo.mp4" type="video/mp4">
+
+Your browser does not support the video tag
+
+</video>
+
+</body>
+
+</html>
+
+adwitiyo prakash.May 27, 07:37 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h2>Welcome to coding</h2>
+
+<center>
+
+<img src="image.jpg" alt="plants" width="500" height="500" >
+
+</center>
+
+</body>
+
+</html>
+
+adwitiyo prakash.May 27, 07:15 PM
+Profile Image
+Table, List, Hyperlink
+
+adwitiyo prakash.May 22, 07:43 PM
+Profile Image
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h2>Ordered List</h2>
+
+<ol>
+
+<li>Home</li>
+
+<li>About Us</li>
+
+<li>Contact Us</li>
+
+</ol>
+
+<h2>Unordered List</h2>
+
+<ul>
+
+<li>Home</li>
+
+<li>About Us</li>
+
+<li>Contact Us</li>
+
+</ul>
+
+<h2>Defination List</h2>
+
+<dl>
+
+<dt>Home</dt>
+
+<dd> Home is a residential place </dd>
+
+<dt>About Us</dt>
+
+<dt>Contact Us</dt>
+
+</dl>
+
+</body>
+
+</html>
+
+adwitiyo prakash.May 22, 07:36 PM
+Profile Image
+8955745562
+
+adwitiyo prakash.May 20, 07:51 PM
+Profile Image
+Profile Image
+can you tell your number
+
+Vidit gupta.May 20, 07:51 PM
+Profile Image
+can you tell again
+
+Vidit gupta.May 20, 07:48 PM
+Profile Image
+what sir
+
+Vidit gupta.May 20, 07:48 PM
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<h1>I am Codingal</h1>
+
+I am <i> 2 years old.</i><br>
+
+My Address is HSR Layout, Bengaluru.<br>
+
+My favourite subjects are <mark>Science</mark>and
+
+<mark>Maths.</mark><br>
+
+My hobbies include Coding and solving problems.<br>
+
+My favourite is quotation is - <br>
+
+<mark><q>programming is not about what you knew, it is about what you can figure out.</q></mark>
+
+</body>
+
+</html>
+
+adwitiyo prakash.May 20, 07:32 PM
+Profile Image
+Profile Image
+Abhinav123459
+
+Abhinav Goyal.May 15, 07:45 PM
+https://git-scm.com/download/win
+
+adwitiyo prakash.May 15, 07:33 PM
+Profile Image
+Profile Image
+yes
+
+Vidit gupta.May 15, 07:18 PM
+https://code.visualstudio.com/Download
+
+adwitiyo prakash.May 15, 07:13 PM
+Profile Image
+
+</style>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Welcome to space explorer's club</h1>
+  <ul>
+      <li> ICC</li>
+      <li>IPLr</li>
+      <li>T2O CWC</li>
+      <li>Telescopes and Stars</li> 
+  </ul>
+  <p> Cricket is a very popular sport played by two teams, each consisting of eleven players. It requires a bat, ball, and stumps and is usually played on a large field. The objective of the game is to score more runs than the opposing team. Matches can vary in format, including test matches, one-day internationals, and T20 games. Cricket is loved by millions, particularly in countries like India, Australia, and England. It fosters great teamwork and spirit among players and offers thrilling moments for fans, making it more than just a game but an emotion in many cultures r.
+  .</p>
+  <a href='#">Join our Mission</a>
+  <a href="#">Latest space news</a>
+  <a href="#">Gallery of the universe</a>
+</body>
+
+</html>
