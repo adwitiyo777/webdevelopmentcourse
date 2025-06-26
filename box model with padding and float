@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cricket Info</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 20px;
+    }
+
+    .container {
+      width: 90%;
+      margin: auto;
+      overflow: hidden;
+    }
+
+    .header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border: 2px solid #0056b3;
+    }
+
+    .left-box {
+      width: 45%;
+      float: left;
+      padding: 15px;
+      margin: 10px;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    .right-box {
+      width: 45%;
+      float: right;
+      padding: 15px;
+      margin: 10px;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    .footer {
+      clear: both;
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="header">
+      <h1>Cricket World</h1>
+      <p>Exploring the Game of Gentlemen</p>
+    </div>
+
+    <div class="left-box">
+      <h2>History of Cricket</h2>
+      <p>Cricket originated in England and has become a popular sport worldwide. It is known for its traditions and long formats like Test cricket.</p>
+    </div>
+
+    <div class="right-box">
+      <h2>Famous Cricketers</h2>
+      <ul>
+        <li>Sachin Tendulkar</li>
+        <li>Virat Kohli</li>
+        <li>MS Dhoni</li>
+        <li>Ben Stokes</li>
+        <li>Babar Azam</li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      <p>© 2025 Cricket Info | Designed with Box Model, Padding & Float</p>
+    </div>
+  </div>
+
+</body>
+</html>
