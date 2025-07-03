@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Positioning </title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+    .box {
+      width: 150px;
+      height: 150px;
+      padding: 10px;
+      color: white;
+      text-align: center;
+      line-height: 130px;
+      font-weight: bold;
+    }
+
+    .static-box {
+      background-color: #6c757d;
+      position: static;
+    }
+
+    .relative-box {
+      background-color: #198754;
+      position: relative;
+      top: 20px;
+      left: 20px;
+    }
+
+    .absolute-box {
+      background-color: #0d6efd;
+      position: absolute;
+      top: 50px;
+      left: 200px;
+    }
+
+    .fixed-box {
+      background-color: #dc3545;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+    }
+
+    .container {
+      position: relative; /* Makes absolute child position from here */
+      margin-top: 30px;
+      height: 300px;
+      border: 2px dashed #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>CSS Positioning </h2>
+
+  <div class="box static-box">Static</div>
+
+  <div class="box relative-box">Relative</div>
+
+  <div class="container">
+    <div class="box absolute-box">Absolute</div>
+  </div>
+
+  <div class="box fixed-box">Fixed</div>
+
+</body>
+</html>
