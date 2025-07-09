@@ -1,2 +1,40 @@
 <!DOCTYPE html>
 <html lang ="eng"
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+</script>
+<title>Bootstrap Grid System</title>
+   .col{
+        text-align:centre;
+        border :1px solid black;
+</style>
+</head>
+
+<body>
+  <div class="container">
+     <h1>Condingal</h1>
+     <h1 class="display-1">Codingal</h1>
+     <h1 class="display-1">Codingal</h1>
+     <h1 class="display-1">Codingal</h1>
+     <h1 class="display-1">Codingal</h1>
+     <h1 class="display-1">Codingal</h1>
+     <h1 class="display-1">Codingal</h1>
+  </div>
+  <div class ="container">
+   <h1>Lighter,Secondary text with small tag and class text-muted
+      <small>Hello Condingal</small>
+  </h1>
+  <dl>
+    <dt>coffee</dt>
+    <dd>white hot drink</dd>
+    <dt>green tea </dt>
+    <dd>healthy drink</dd>
+  </dl>
+</div>
+
+</html>
+      
+     
