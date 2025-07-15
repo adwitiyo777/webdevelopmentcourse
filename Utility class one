@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html style="text-align : centre;"
+<head>
+link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+</head>
+
+<body style = "text-align : centre;
+ <div class ="container">
+  <div class ="jumbotron">
+   <h1>Containers</h1>
+   <p>making kids fall in love with coding !!>
+  </div>
+</div>
+
+<div class ="container mt-3">
+ <h2>Lets create buttons!!</h2>
+ <buttons type="button" class="btn btn-primary btn-lg">Primary</buttons>
+ <button type="button" class="btn btn-secondary btn-sm">Secondary</button>
+ <button type="button" class="btn btn-warning">Warning</buttons>
+ <buttons type="button" class="btn btn-danger active">Danger</buttons>
+
+</div>
+<hr>
+<div class="container">
+ <h2>Contextual Badges </h2>
+ <span class="badge badge-primary">Primary</span>
+ <span class="badge badge-warning">Warning</span>
+ <h3><span class="badge badge-pill badge-warning">Warning</span></h3>
+ <h2>Message<span class="badge badge-info">4</span></h2>
+</div>
+<hr>
+<div class="container">
+ <h2>Now,its time to learn Progress Bar</h2>
+ <div class="progress">"width/div>
+  <div class="progress-bar" style=width:40%>40%<
+ </div><br><br>
+</div>
+</body>
+
+</html
