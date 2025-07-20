@@ -1,0 +1,109 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f7f9fc;
+  padding: 20px;
+}
+
+/* Spinner */
+.spinner-container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #ddd;
+  border-top: 5px solid #3498db;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+.spinner-container p {
+  margin-top: 10px;
+  color: #333;
+  font-weight: 500;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Cards */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: calc(33.333% - 40px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.card p {
+  color: #555;
+}
+
+/* Responsive Cards */
+@media (max-width: 768px) {
+  .card {
+    width: calc(50% - 40px);
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 100%;
+  }
+}
+
+/* Pagination */
+.pagination {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.pagination a {
+  color: #3498db;
+  padding: 10px 16px;
+  margin: 0 5px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.pagination a.active {
+  background-color: #3498db;
+  color: white;
+  border: 1px solid #3498db;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #eee;
+}
