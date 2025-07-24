@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1 id="myH'></h1>
+<p id="myP"></p>
+
+<script>
+
+document.getElementBtId("myH').innerHTML ="JavaScript" Comments";
+
+document.getElementBtId("myH').innerHTML ="MY first paragraph";
+
+</script>
+
+</body>
