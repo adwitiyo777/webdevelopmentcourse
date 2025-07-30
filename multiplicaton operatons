@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+
+// Function to multiply two numbers
+@function multiply($a, $b) {
+  @return $a * $b;
+}
+
+// Example usage
+.box {
+  width: multiply(10px, 5); // Output: 50px
+  height: multiply(2rem, 3); // Output: 6rem
+}
+</html>
