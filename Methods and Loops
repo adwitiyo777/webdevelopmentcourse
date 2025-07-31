@@ -12,3 +12,8 @@
  document.write("The random value is " +Math.floor
  (Math.floor() * 100)) ;
  var date = new data
+ document.write("Today's date is + date.getDate ()) ;
+</script>
+</body>
+
+</html>
